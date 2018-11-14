@@ -1,0 +1,14 @@
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/bin/Debug/netcoreapp2.1/provider.deps.json
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/bin/Debug/netcoreapp2.1/provider.runtimeconfig.json
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/bin/Debug/netcoreapp2.1/provider.runtimeconfig.dev.json
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/bin/Debug/netcoreapp2.1/provider.dll
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/bin/Debug/netcoreapp2.1/provider.pdb
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.csprojAssemblyReference.cache
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.csproj.CoreCompileInputs.cache
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.RazorAssemblyInfo.cache
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.RazorAssemblyInfo.cs
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.AssemblyInfoInputs.cache
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.AssemblyInfo.cs
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.RazorTargetAssemblyInfo.cache
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.dll
+/Users/apacheco/code/2018-dotnet-conf/eureka/src/provider/obj/Debug/netcoreapp2.1/provider.pdb
